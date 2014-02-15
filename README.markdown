@@ -10,3 +10,4 @@ If you're in the group as a potential speaker:
 * Create a folder for yourself: `individual_work\lastname_firstname`
 * Create in that folder an `ideas.markdown`
 * Use the `ideas.markdown` to start brain-dumping ideas without regards to quality/viability
+* You can checkout [Generating Ideas](https://github.com/speakercorps/proposals/blob/master/generating_ideas.markdown) for some questions to help get your brain in motion
