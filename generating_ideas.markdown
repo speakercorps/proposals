@@ -5,3 +5,12 @@
 * How does your background and non-programming knowledge/experience influence you / your code? Could that be useful to others?
 * Is there a question/topic that you could research (by evaluating code, conducting surveys, etc) and share findings on?
 * What are you better at now than you were a year ago? What helped you make that transition?
+* What do you rant about?
+* What are you stoked about that you tend to show people or tell people about (casually, in conversations).
+
+Also, you can ask others:
+
+* What have you learned from working with me?
+* What do you think I am good at?
+* What topics do I love?
+* What topics do I rant about?
