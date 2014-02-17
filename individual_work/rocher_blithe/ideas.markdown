@@ -26,3 +26,5 @@ I recently worked on a SOA that had several connected Rails apps and used Active
 ### The Former Scientist Talk
 
 Maybe I could talk about how my background as a scientist affects the way I write code/ solve problems when developing. I definitely see some parallels between the scientific method and troubleshooting a bug. For instance, you start with some feedback from the app like an error message. You make a hypothesis about what's wrong. You come up with a plan/procedure on how to fix it. You make the changes and get some data in return. Your hypothesis is confirmed and you've fixed the bug or it's still broken and you start a new "experiment." There are also connections between 1) keeping a good lab notebook and updating documentation and  2) researching by reading papers/ literature and using online resources like Rails docs, Stack Overflow, etc. 
+
+* JC: I think this could be really cool if there are non-obvious elements to it. When you're giving a talk you have to always be careful to think about what the audience already knows. 
