@@ -7,3 +7,11 @@ I've run into so/too many issues with complex validations in my time at BNR. We 
 #### PubSub talk
 
 My final project for gSchool centered around JavaScript publish / subscribe. Not as fresh in my mind. I could talk about when to use PubSub, the service I used (Faye) where PubSub can be problematic (using Heroku, for instance, having to push a separate server), perhaps security issues with publishing JS/ERB files as templates, PubSub in combination with other JS libraries (like d3), etc. It's been a while since I've touched this, but I found it fascinating, as it _feels_ like Rails doesn't do PubSub very well? I'm not sure, would have to research all and more.
+
+#### Finding a Mentor talk
+
+Throughout my brief developer career, I've found that mentor/mentee relationships are perhaps the most invaluable of all relationships. Finding someone to constantly check your code, check your mindset, especially early on. I could talk about my first mentor in high school, first mentor at Google, first mentor at gSchool, then me transitioning into mentorship roles (while still being mentored at BNR). This talk could be about: 1) how to mentor, 2) how to be a mentor, 3) what to do / not to do, 4) what the role of a mentor can be / should be, 5) why mentoring is valuable for both parties, etc. I feel like this talk doesn't have much "edge", and is pretty flat as is. Any suggestions on how to spice it up?
+
+#### Service-Oriented Design - "What Not to Do" talk
+Though Blithe already has this one pretty covered, we worked on a 4 part app together that had a lot of pitfalls early on. This talk would be about how we overcame them. Main talking points: 1) why splitting up your apps into 4 repositories can be super bad, 2) lack of a continuous integration platform like Travis, 3) lack of a solid and consistent bootstrapping task, so that folks who jump on/off the project can't set up a dev server well, 4) how and how not to get a team to work on several apps at once (I can also talk about the gSchool SOD project here), 5) why lack of tests can kill your apps, and why too many Factory-based feature tests can kill them too.
+
