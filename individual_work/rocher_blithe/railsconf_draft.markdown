@@ -18,7 +18,7 @@ _Only visible by review committee._
 _Explain the theme and flow of your talk. What are the intended audience takeaways?_
 _Include any pertinent details such as outlines, outcomes or intended audience._
 
-This talk will introduce beginning Rails developers to the process of internationlaizing and localizing a Rails application. It covers:
+This talk will introduce beginning Rails developers to the process of internationalizing and localizing a Rails application. It covers:
 
 * useful definitions
 * why internationalization can be useful (even for a beginner)
