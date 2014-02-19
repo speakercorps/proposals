@@ -38,7 +38,7 @@ I recently switched careers to become a Rails developer. I haven't forgotten wha
 
 I have internationalized and localized a Rails application for a client based outside of the United States. I learned that the process not as intimidating as it seems. I also learned a few things that would have been helpful to know before I started the project.
 
-Internationalization and localization is a topic that a beginning rails developer is capable of understanding and implementing on a Rails application. It's also a skill that would be helpful to learn as a beginner instead of later in a developer's career.
+Internationalization and localization are topics that a beginning Rails developer is capable of understanding and implementing. It's also a skill that would be helpful to learn as a beginner instead of later in a developer's career.
 
 Though new to the developer community, I've been speaking and teaching for the past ten years. I also co-organize a monthly meetup for women interested in learning about Ruby on Rails. 
 
