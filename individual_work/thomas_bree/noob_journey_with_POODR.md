@@ -1,17 +1,24 @@
-## Noob Journey with Sandi Metz's POODR 
+## Noob Journey with POODR 
 
-As a noob, with no prior programming
-experience, reading Sandi Metz's Practical Object-Oriented Design in
+As a new programmer, reading Sandi Metz's Practical Object-Oriented Design in
 Ruby was a love, hate, and finally love again
-journey. Her presentation of the concepts were so beautifully simple,
-how could one NOT feel like designing an app would be as easy as
-riding a bike? Inspired by Sandi's wise words, I embarked on a
-refactor where I was hell-bent on righting the wrongs of
-my past design decisions and creating an epic object-oriented
+journey. Inspired by Sandi's wise words, I embarked on a
+major refactoring project, hell-bent on righting the wrongs of
+my past design decisions and creating a well-oiled object-oriented
 masterpiece. 
 
-This talk is an accounting of a very humbling journey. The story is told through code examples from the refactor,
-and a story line that follows a famous Nike ad, ‘Falling in Love in Six Acts’:
+This is the story of ‘Falling in Love in Six Acts’:
+
++ Act 1: LUST
++ Act 2: EUPHORIA
++ Act 3: FEAR
++ Act 4: DISGUST
++ Act 5: THE TRUTH
++ Act 6: THE FINALE
+
+Learning to program about falling in love with the struggle.
+
+### Deeper Notes
 
 + Act 1: LUST: "This is it. The big wow. The thing you've been waiting
   for." 
@@ -45,6 +52,3 @@ and a story line that follows a famous Nike ad, ‘Falling in Love in Six Acts�
 + Act 6: THE FINALE: "There is something to be gained from commitment.
   There are rewards for staying when you would rather leave." 
   I learned the most from this project. I had real ownership. And now I know what is possible. And I will be a better programmer for it.
-
-Learning to program is hard. Really caring about the craft of the code you write is enough to make you
-bonkers. And you have to love the struggle as much as the result. Maybe more.

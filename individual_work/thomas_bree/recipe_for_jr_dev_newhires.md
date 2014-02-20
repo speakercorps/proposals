@@ -1,27 +1,16 @@
-## Execution plan for Jr. Dev Newhires
+## You've Hired a Junior Developer, Now What?
 
-Schools are outputting Jr. Developers increasingly. And companies are hiring
-Jr. Developers increasingly. And while the future certainly looks bright for the up and coming noob cadets,
-there are still seemingly a lot of companies who will only entertain Sr.
-Developers. What are some of the common hangups about hiring Jr. Dev's?
-And what are some successes from those companies who regularly hire and
-employ a formal onboarding and mentorship program for Jr. Dev's?
+There are dozens of developer training programs and colleges graduating 
+people they think are ready to write production code. And while the 
+future certainly looks bright for the up and coming noob cadets, most 
+are not ready to jump into the fire on day one.
 
-With a case study approach, focused on a handful of companies,  
-we'll explore the following in this talk:
+But we need to turn these people into senior engineers. How do successful
+teams do it? Based on a study of three different development teams, let's explore:
 
-+ The ratio of Sr. to Jr. Developer job postings
-+ The varying rationale small, midsize, and large businesses cite for
-  hiring one over the other. Whether they have a specific approach in
-  skill level mix.
-+ Various approaches in mentorship programs within companies.
-+ A look at the resource numbers that a company has to consider when
-  investing in Jr. Dev's and their perspective on how the return on that
-  investment is measured.
++ How many senior devs do you need to properly mentor juniors? What's the right ratio?
++ How can mentorship really work?
++ How can a junior developer carry their weight?
 
-Having a starting recipe for absorbing and onboarding Jr. Dev's, which
-can be scaled and customized for teams with varying budgets and needs, is
-value ad for any size company. 
- 
-
-
+Based on these examples we can emulate success and bring up the next
+generation of great developers.
