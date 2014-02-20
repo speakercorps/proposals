@@ -1,5 +1,6 @@
 ### Title
-What if ActiveRecord can't do it?
+
+ActiveRecord can't do it? Keep calm and Use Arel.
 
 ### Abstract
 
