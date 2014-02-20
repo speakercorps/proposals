@@ -7,13 +7,13 @@ ActiveRecord can't do it? Keep calm and Use Arel.
 _What is your talk about? (500 characters or less)_
 
 Active Record is awesome. It covers most of the cases for accessing
-database. Active Record handles all this under the hood by making use
+database. Active Record handles all this complexity under the hood by making use
 of Arel for SQL generation. Most of the times, Rails developers don't have
-to go deep down to Arel.
+to know about how Arel works.
 
-Only sometimes there is need to generate complex queries not
-supported by Active Record, Arel comes to our rescue. Lets go down the
-Arel way to uncover its mysteries and see in which cases it would be useful for us.
+Only sometimes Active Record can't satisfy our needs. No need to
+worry! Arel can do lot more than what is exposed through Active
+Record. So keep calm and ride on Arel.
 
 ### Details
 
@@ -26,12 +26,10 @@ of Arel and how Arel can be used effectively for generating complex
 queries. It will cover the use cases for using Arel and  features of
 Arel that are not supported in Active Record out of the box. I will
 walk through the code containing complex handcrafted SQL and its Arel
-alternatives.
+alternatives. Using internals of Arel, will also make
+understanding of how Active Record works better.
 
 The intended audience for this talk are beginning Rails developers.
-This talk will help understand how Arel works under the hood and how
-we can use it when needed. Using internals of Arel, will also make
-understanding of how Active Record works better.
 
 ### Pitch
 
