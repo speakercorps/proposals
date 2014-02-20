@@ -1,6 +1,6 @@
 ### Title
 
-ActiveRecord can't do it? Keep calm and Use Arel.
+ActiveRecord can't do it? Keep calm and Do Arel
 
 ### Abstract
 
@@ -54,8 +54,7 @@ were able to combine all the sub-queries in all possible ways. We also
 used Arel to build complex predicates. This talk is result of my work
 with Arel in our project.
 
-Though i don't have speaking experience at a conference, i have talked
-at local meetups. I also help organizing local Ruby meetup.
+I have given talks at local Ruby meetups. I also help organizing local Ruby meetup.
 
 ### Tags
 
