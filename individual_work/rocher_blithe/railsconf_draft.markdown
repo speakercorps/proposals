@@ -8,7 +8,7 @@ _What is your talk about? (500 characters or less)_
 
 Many experienced Rails developers have never internationalized a Rails application but it's a useful and marketable skill that even a novice developer can learn. 
 
-Much like testing, internationalization (i18n) of a Rails application shouldn’t be an afterthought. The process of internationalization can help save time and simplify a codebase even for apps with only one language.
+Much like testing, internationalization (i18n) of a Rails application shouldn’t be an afterthought. The process of internationalization can help save time and simplify a codebase even for only one language.
 
 We’ll cover the process of internationalizing a Rails application along with some of the most useful gems and services.
 
