@@ -33,13 +33,13 @@ _Only visible by review committee._
 _Why is this talk pertinent? What is your involvement in the topic?_
 _Explain why this talk should be considered and what makes you qualified to speak on the topic._
 
-Building out an intellegent object like a User or Itinerary or Order, one that requires certain attributes in certain situations to make your app really jive, is not an intuitive process. As a budding developer, I found my database littered with half-baked instances, my view forms an innavigable jungle, my ActiveRecord models a cluster of "validate this, when this, but not when this!" mess.
+Building out an intelligent object like a User or Itinerary or Order, one that requires certain attributes in certain situations to make your app really jive, is not an intuitive process. As a budding developer, I found my database littered with half-baked instances, my view forms an innavigable jungle, my ActiveRecord models a cluster of "validate this, when this, but not when this!" mess.
 
-However, validating that these objects are built the way you expect is core to both the Rails Way and the user's experience. Though these patterns might not be immediately apparent in Rails, splitting out form objects is a tecnique that beginners can definitely grasp. I think it's critical to share my personal pitfalls and arm beginners with this knowledge.
+However, validating that these objects are built the way you expect is core to both the Rails Way and the user's experience. Though these patterns might not be immediately apparent in Rails, splitting out form objects is a technique that beginners can definitely grasp. I think it's critical to share my personal pitfalls and arm beginners with this knowledge.
 
 I have used complex validations and form objects in two related Rails applications for our internal team. From this experience, I learned several valuable lessons, techniques for DRYing up code, and new tactics in Rails 4 that have aided me tremendously.
 
-Though new to Rails, I have particpated in giving 5-minute didactic "lightning talks" once a month, which helped sharpen both my soft and technical talk skills, covering topics from specific gems to the social aspects of technology. Additionally, I have given over five talks on open source codebases, pitching both the product/idea and delving into interesting pieces of the codebase.
+Though new to Rails, I have participated in giving 5-minute didactic "lightning talks" once a month, which helped sharpen both my soft and technical talk skills, covering topics from specific gems to the social aspects of technology. Additionally, I have given over five talks on open source code bases, pitching both the product/idea and delving into interesting pieces of the codebase.
 
 ### Tags
 
@@ -51,4 +51,3 @@ _For the event program (300 characters or less)._
 _This information will be hidden from the review committee._
 
 Geoffrey is a cruciverbalist, ukulelist, and audiophile. He is a graduate of the gSchool development school in Denver, and currently is a consultant for Ruby on Rails at Big Nerd Ranch in Atlanta. 
-
