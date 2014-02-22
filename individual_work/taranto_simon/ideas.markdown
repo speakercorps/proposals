@@ -20,3 +20,6 @@
   Inspired by my blog post:
   http://www.simontaranto.com/2014/01/10/how-activerecord-casts-params-before-validation.html
 
+## Feedback
+
+* Lambdas: What do people already know? Why do they want to know about Lambda? Where might they have encountered them? How are they similar and different than blocks? Stay in Ruby land. Turn this into a proposal.
