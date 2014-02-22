@@ -6,11 +6,9 @@ Valid Point, My Friend! - A Look at Complex Rails Validations
 
 _What is your talk about? (500 characters or less)_
 
-Rails validations are often taken for granted or afterthoughts in our codebase, but should be considered on every new model or migration.
+Rails validations are taken for granted. But any experienced developer knows that data integrity issues are one of the most common sources of software bugs.
 
-Though mostly technical, I will also cover the real life mistakes I made creating my company's course registration platform, braving confusion and clutter to produce intelligent form objects and speedy unit tests.
-
-We'll cover building out complex validations, how ActiveRecord::Validations works, and how to test drive your validations.
+Everything works just fine until users get a hold of it. In this session we'll look at the challenges encountered in a real life project. We'll look at how to go beyond the normal built-in validations and build our own. We'll reduce confusion and clutter, producing intelligent form objects and speedy unit tests.
 
 ### Details
 
