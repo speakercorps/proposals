@@ -1,8 +1,16 @@
-# Crafting your own Onboarding Experience
+# Purposeful Onboarding
 
 ## Abstract
 
-In our industry, a good onboarding experience is an exception than the norm. This pattern needs to change, given the influx of new developers joining us. There are many reasons behind lack of effective onboarding programs, most notable being limited resources. Therefore, I want to share strategies to developers joining a new team take charge of their onboarding experience. These strategies are borne out of my experience, both as a new developer and as someone helping onboard a new team member.
+In our industry, a well-organized onboarding experience is an exception rather than the norm. This has to change. 
+
+Based on study of three different development teams, this session will explore patters for quickly getting people up to speed including:
+
+* ?
+* ?
+* ?
+
+Once understood, these techniques can be used by both the existing devs and the new team members to improve efficiency.
 
 ## Details
 
