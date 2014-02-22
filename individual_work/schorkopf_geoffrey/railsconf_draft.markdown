@@ -6,7 +6,7 @@ Valid Point, My Friend! - A Look at Complex Rails Validations
 
 _What is your talk about? (500 characters or less)_
 
-Rails validations are taken for granted. But any experienced developer knows that data integrity issues are one of the most common sources of software bugs. Everything works just fine until users get a hold of it. 
+Rails validations are taken for granted. As a budding developer, I found my database littered with half-baked instances, view forms an innavigable jungle, and ActiveRecord models a cluster of "validate this when this but not then this!" mess.
 
 In this session we'll look at the challenges encountered in a real life project. We'll look at how to go beyond the normal built-in validations and build our own. We'll reduce confusion and clutter, producing intelligent form objects and speedy unit tests.
 
@@ -31,9 +31,9 @@ _Only visible by review committee._
 _Why is this talk pertinent? What is your involvement in the topic?_
 _Explain why this talk should be considered and what makes you qualified to speak on the topic._
 
-Building out an intelligent object like a User or Itinerary or Order, one that requires certain attributes in certain situations to make your app really jive, is not an intuitive process. As a budding developer, I found my database littered with half-baked instances, my view forms an innavigable jungle, my ActiveRecord models a cluster of "validate this, when this, but not when this!" mess.
+Building out an intelligent object like a User or Itinerary or Order, one that requires certain attributes in certain situations to make your app really jive, is not an intuitive process. An experienced developer knows that data integrity issues are one of the most common sources of software bugs. Everything works just fine until users get a hold of it. 
 
-However, validating that these objects are built the way you expect is core to both the Rails Way and the user's experience. Though these patterns might not be immediately apparent in Rails, splitting out form objects is a technique that beginners can definitely grasp. 
+Validating that objects are built the way you expect is core to both the Rails Way and the user's experience. Though these patterns might not be immediately apparent in Rails, splitting out form objects is a technique that beginners can definitely grasp. 
 
 I have used complex validations and form objects in two related Rails applications for our internal team. From this experience, I learned several valuable lessons, techniques for DRYing up code, and new tactics in Rails 4 that have aided me tremendously.
 
