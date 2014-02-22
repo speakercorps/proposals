@@ -20,8 +20,10 @@ The intended audience are programmers who have limited experience starting on a 
 
 ## Pitch
 
-As someone who came to the Ruby community with a computer science background and programming experience, it was *still* challenging to strike a balance between learning the problem domain and the technical stack while delivering value. The progression I describe in the talk, in many ways, is the kind of experience I wish I had when I was starting out. I do not want the new programmers coming to our industry to suffer through the same challenges and figure all of this out on their own. Furthermore, I want to start a conversation about we can work towards making onboarding experiences better and RailsConf will provide the perfect platform to achieve that goal.
+I came into the Ruby community with a computer science background and programming experience. But it was *still* challenging to get started on my team. It's so difficult to learn the problem domain and the technical stack while trying to deliver value. 
+
+The progression I describe in this talk is, in many ways, the kind of experience I wish I had when I was starting out. 
 
 ## Bio
 
-[Ashish](https://twitter.com/tundal45) is a Software Developer at [Groupon](http://engineering.groupon.com). He is currently on his third team after starting as a beginner Ruby on Rails developer few years ago. His current focus is to become a full-stack developer and a systems thinker.
+[Ashish](https://twitter.com/tundal45) is a Software Developer at [Groupon](http://engineering.groupon.com). He is currently on his third team after starting as a Ruby on Rails developer few years ago. His current focus is to become a full-stack developer and a systems thinker.
