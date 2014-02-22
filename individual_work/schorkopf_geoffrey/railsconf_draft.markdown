@@ -37,7 +37,6 @@ However, validating that these objects are built the way you expect is core to b
 
 I have used complex validations and form objects in two related Rails applications for our internal team. From this experience, I learned several valuable lessons, techniques for DRYing up code, and new tactics in Rails 4 that have aided me tremendously.
 
-
 Though new to Rails, I have participated in giving 5-minute didactic "lightning talks" once a month, which helped sharpen both my soft and technical talk skills, covering topics from specific gems to the social aspects of technology. Additionally, I have given several talks on open source code bases, pitching both the product/idea and delving into interesting pieces of the puzzle.
 
 ### Tags
