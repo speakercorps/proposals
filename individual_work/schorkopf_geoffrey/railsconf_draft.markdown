@@ -6,9 +6,9 @@ Valid Point, My Friend! - A Look at Complex Rails Validations
 
 _What is your talk about? (500 characters or less)_
 
-Rails validations are taken for granted. As a budding developer, I found my database littered with half-baked instances, view forms an innavigable jungle, and ActiveRecord models a cluster of "validate this when this but not then this!" mess.
+Rails validations are taken for granted. As a budding developer, I found my database littered with half-baked instances, my view forms an innavigable jungle, and my ActiveRecord models a cluster of "validate this when this but not then this!"
 
-In this session we'll look at the challenges encountered in a real life project. We'll look at how to go beyond the normal built-in validations and build our own. We'll reduce confusion and clutter, producing intelligent form objects and speedy unit tests.
+In this session we'll look at the challenges encountered in a real life project. We'll go beyond the normal built-in validations and build our own. We'll reduce confusion and clutter, producing intelligent form objects and speedy unit tests.
 
 ### Details
 
@@ -39,6 +39,8 @@ I have used complex validations and form objects in two related Rails applicatio
 
 Though new to Rails, I have participated in giving 5-minute didactic "lightning talks" once a month for half a year, which helped sharpen both my soft and technical talk skills, covering topics from specific Ruby gems to the social aspects of technology. Additionally, I have given several talks on open source repositories, pitching both the product/idea and delving into interesting pieces of the codebase.
 
+
+
 ### Tags
 
 Novice, Real World Rails, Testing
@@ -48,4 +50,4 @@ Novice, Real World Rails, Testing
 _For the event program (300 characters or less)._
 _This information will be hidden from the review committee._
 
-Geoffrey is a cruciverbalist, ukulelist, and audiophile. He is a graduate of the gSchool development program in Denver, and currently is a Rails consultant at Big Nerd Ranch in Atlanta. 
+Geoffrey is a cruciverbalist, ukulelist, and audiophile. He is a graduate of the gSchool developer program in Denver, and currently is a Rails consultant at Big Nerd Ranch in Atlanta. 
