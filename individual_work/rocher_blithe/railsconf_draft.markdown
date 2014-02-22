@@ -1,16 +1,16 @@
 ### Title
 
-I18n: That one weird trick to make your Rails app better
+I18n Means Better Software
 
 ### Abstract
 
 _What is your talk about? (500 characters or less)_
 
-Many experienced Rails developers have never internationalized a Rails application but it's a useful and marketable skill that even a novice developer can learn. 
+Many experienced Rails developers have never internationalized a Rails application. But it's a useful and marketable skill that even a novice developer can learn. 
 
-Much like testing, internationalization (i18n) of a Rails application shouldn’t be an afterthought. The process of internationalization can help save time and simplify a codebase even for only one language.
+Much like testing, internationalization (i18n) of a Rails application shouldn’t be an afterthought. The process of internationalization can help save time and simplify a codebase, even if the application is only deployed in one language.
 
-We’ll cover the process of internationalizing a Rails application along with some of the most useful gems and services.
+In this session we’ll cover the process of internationalizing a Rails application, a handful of the most useful gems and services, and look at how the process improves the codebase.
 
 ### Details
 
@@ -20,7 +20,7 @@ _Include any pertinent details such as outlines, outcomes or intended audience._
 
 This talk will introduce beginning Rails developers to the process of internationalizing and localizing a Rails application. It covers:
 
-* useful definitions
+* important definitions
 * why internationalization can be useful (even for a beginner)
 * an overview of how to implement i18n in a Rails application
 * tips for using locale files in views, forms, and tests
@@ -33,8 +33,6 @@ This talk will introduce beginning Rails developers to the process of internatio
 _Only visible by review committee._
 _Why is this talk pertinent? What is your involvement in the topic?_
 _Explain why this talk should be considered and what makes you qualified to speak on the topic._
-
-I recently switched careers to become a Rails developer. I haven't forgotten what it's like to learn new skills as a beginner.
 
 I have internationalized and localized a Rails application for a client based outside of the United States. I learned that the process not as intimidating as it seems. I also learned a few things that would have been helpful to know before I started the project.
 
