@@ -11,7 +11,7 @@ The Scientific Method of Troubleshooting
 
 _This will be posted on the website and in the program. It should be about a paragraph long. If it's too long or too short we can fix it after your talk is accepted._
 
-For software engineers, troubleshooting is one of the toughest and most important skills to develop. When problems arise, a beginning developer's first instincts are to panic and head to StackOverflow. Rather than quick fixes, it's important to seek a deeper understanding of what went wrong.
+For software engineers, troubleshooting is one of the toughest and most important skills to develop. When problems arise, a beginning developer's first instincts are to panic and head to StackOverflow. Rather than rushing to deploy quick fixes, it's important to identify the root cause.
 
 Biologists, chemists, and physicists increase understanding about the world by applying the logical steps of the scientific method to discover solutions to complex problems. Like scientists, developers can learn troubleshooting skills by treating each problem like a mini "science" experiment.
 
